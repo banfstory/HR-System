@@ -1,0 +1,87 @@
+C:\Users\FRONTIER\Documents\Visual Studio 2015\Projects\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe.config
+C:\Users\FRONTIER\Documents\Visual Studio 2015\Projects\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe
+C:\Users\FRONTIER\Documents\Visual Studio 2015\Projects\EmployeeDatabase\EmployeeDatabase\bin\Debug\EmployeeDatabase.pdb
+C:\Users\FRONTIER\Documents\Visual Studio 2015\Projects\EmployeeDatabase\EmployeeDatabase\bin\Debug\MySql.Data.dll
+C:\Users\FRONTIER\Documents\Visual Studio 2015\Projects\EmployeeDatabase\EmployeeDatabase\bin\Debug\Google.Protobuf.dll
+C:\Users\FRONTIER\Documents\Visual Studio 2015\Projects\EmployeeDatabase\EmployeeDatabase\bin\Debug\MySql.Data.xml
+C:\Users\FRONTIER\Documents\Visual Studio 2015\Projects\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.Form1.resources
+C:\Users\FRONTIER\Documents\Visual Studio 2015\Projects\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.Login.resources
+C:\Users\FRONTIER\Documents\Visual Studio 2015\Projects\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.Properties.Resources.resources
+C:\Users\FRONTIER\Documents\Visual Studio 2015\Projects\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.Register.resources
+C:\Users\FRONTIER\Documents\Visual Studio 2015\Projects\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.csproj.GenerateResource.Cache
+C:\Users\FRONTIER\Documents\Visual Studio 2015\Projects\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.exe
+C:\Users\FRONTIER\Documents\Visual Studio 2015\Projects\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.pdb
+C:\Users\FRONTIER\Documents\Visual Studio 2015\Projects\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.Employee.resources
+C:\Users\FRONTIER\Documents\Visual Studio 2015\Projects\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.Manager.resources
+C:\Users\FRONTIER\Documents\Visual Studio 2015\Projects\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.Admin.resources
+C:\Users\FRONTIER\Documents\Visual Studio 2015\Projects\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.Department.resources
+C:\Users\FRONTIER\Documents\Visual Studio 2015\Projects\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.SalaryGrade.resources
+C:\Users\FRONTIER\Documents\Visual Studio 2015\Projects\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.Confirm.resources
+C:\Users\FRONTIER\Documents\Visual Studio 2015\Projects\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.AddEmployee.resources
+C:\Users\FRONTIER\Documents\Visual Studio 2015\Projects\EmployeeDatabase\EmployeeDatabase\obj\Debug\EmployeeDatabase.csprojResolveAssemblyReference.cache
+C:\Users\FRONTIER\Desktop\Program Projects\My Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe.config
+C:\Users\FRONTIER\Desktop\Program Projects\My Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.exe
+C:\Users\FRONTIER\Desktop\Program Projects\My Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.pdb
+C:\Users\Denis\source\repos\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe.config
+C:\Users\Denis\source\repos\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe
+C:\Users\Denis\source\repos\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\bin\Debug\EmployeeDatabase.pdb
+C:\Users\Denis\source\repos\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\bin\Debug\Google.Protobuf.dll
+C:\Users\Denis\source\repos\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\bin\Debug\MySql.Data.xml
+C:\Users\Denis\source\repos\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.AddEmployee.resources
+C:\Users\Denis\source\repos\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.Admin.resources
+C:\Users\Denis\source\repos\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.Confirm.resources
+C:\Users\Denis\source\repos\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.Department.resources
+C:\Users\Denis\source\repos\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.Employee.resources
+C:\Users\Denis\source\repos\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.Form1.resources
+C:\Users\Denis\source\repos\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.Login.resources
+C:\Users\Denis\source\repos\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.Manager.resources
+C:\Users\Denis\source\repos\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.Properties.Resources.resources
+C:\Users\Denis\source\repos\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.Register.resources
+C:\Users\Denis\source\repos\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.SalaryGrade.resources
+C:\Users\Denis\source\repos\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.csproj.GenerateResource.cache
+C:\Users\Denis\source\repos\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.csproj.CopyComplete
+C:\Users\Denis\source\repos\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.exe
+C:\Users\Denis\source\repos\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.pdb
+C:\Users\Denis\Desktop\Main Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe.config
+C:\Users\Denis\Desktop\Main Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe
+C:\Users\Denis\Desktop\Main Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\bin\Debug\EmployeeDatabase.pdb
+C:\Users\Denis\Desktop\Main Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\bin\Debug\Google.Protobuf.dll
+C:\Users\Denis\Desktop\Main Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\bin\Debug\MySql.Data.xml
+C:\Users\Denis\Desktop\Main Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Main Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.AddEmployee.resources
+C:\Users\Denis\Desktop\Main Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.Admin.resources
+C:\Users\Denis\Desktop\Main Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.Confirm.resources
+C:\Users\Denis\Desktop\Main Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.Department.resources
+C:\Users\Denis\Desktop\Main Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.Employee.resources
+C:\Users\Denis\Desktop\Main Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.Form1.resources
+C:\Users\Denis\Desktop\Main Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.Login.resources
+C:\Users\Denis\Desktop\Main Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.Manager.resources
+C:\Users\Denis\Desktop\Main Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.Properties.Resources.resources
+C:\Users\Denis\Desktop\Main Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.Register.resources
+C:\Users\Denis\Desktop\Main Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.SalaryGrade.resources
+C:\Users\Denis\Desktop\Main Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Main Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.csproj.CopyComplete
+C:\Users\Denis\Desktop\Main Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.exe
+C:\Users\Denis\Desktop\Main Projects\EmployeeDBRefined\EmployeeDBRefined\EmployeeDatabase\obj\Debug\EmployeeDatabase.pdb
+C:\Users\Denis\Desktop\Main Projects\HR System\HR System\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe.config
+C:\Users\Denis\Desktop\Main Projects\HR System\HR System\EmployeeDatabase\bin\Debug\EmployeeDatabase.exe
+C:\Users\Denis\Desktop\Main Projects\HR System\HR System\EmployeeDatabase\bin\Debug\EmployeeDatabase.pdb
+C:\Users\Denis\Desktop\Main Projects\HR System\HR System\EmployeeDatabase\bin\Debug\Google.Protobuf.dll
+C:\Users\Denis\Desktop\Main Projects\HR System\HR System\EmployeeDatabase\bin\Debug\MySql.Data.xml
+C:\Users\Denis\Desktop\Main Projects\HR System\HR System\EmployeeDatabase\obj\Debug\EmployeeDatabase.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Main Projects\HR System\HR System\EmployeeDatabase\obj\Debug\EmployeeDatabase.AddEmployee.resources
+C:\Users\Denis\Desktop\Main Projects\HR System\HR System\EmployeeDatabase\obj\Debug\EmployeeDatabase.Admin.resources
+C:\Users\Denis\Desktop\Main Projects\HR System\HR System\EmployeeDatabase\obj\Debug\EmployeeDatabase.Confirm.resources
+C:\Users\Denis\Desktop\Main Projects\HR System\HR System\EmployeeDatabase\obj\Debug\EmployeeDatabase.Department.resources
+C:\Users\Denis\Desktop\Main Projects\HR System\HR System\EmployeeDatabase\obj\Debug\EmployeeDatabase.Employee.resources
+C:\Users\Denis\Desktop\Main Projects\HR System\HR System\EmployeeDatabase\obj\Debug\EmployeeDatabase.Form1.resources
+C:\Users\Denis\Desktop\Main Projects\HR System\HR System\EmployeeDatabase\obj\Debug\EmployeeDatabase.Login.resources
+C:\Users\Denis\Desktop\Main Projects\HR System\HR System\EmployeeDatabase\obj\Debug\EmployeeDatabase.Manager.resources
+C:\Users\Denis\Desktop\Main Projects\HR System\HR System\EmployeeDatabase\obj\Debug\EmployeeDatabase.Properties.Resources.resources
+C:\Users\Denis\Desktop\Main Projects\HR System\HR System\EmployeeDatabase\obj\Debug\EmployeeDatabase.Register.resources
+C:\Users\Denis\Desktop\Main Projects\HR System\HR System\EmployeeDatabase\obj\Debug\EmployeeDatabase.SalaryGrade.resources
+C:\Users\Denis\Desktop\Main Projects\HR System\HR System\EmployeeDatabase\obj\Debug\EmployeeDatabase.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Main Projects\HR System\HR System\EmployeeDatabase\obj\Debug\EmployeeDatabase.csproj.CopyComplete
+C:\Users\Denis\Desktop\Main Projects\HR System\HR System\EmployeeDatabase\obj\Debug\EmployeeDatabase.exe
+C:\Users\Denis\Desktop\Main Projects\HR System\HR System\EmployeeDatabase\obj\Debug\EmployeeDatabase.pdb
