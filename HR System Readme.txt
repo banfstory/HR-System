@@ -1,6 +1,15 @@
 Instructions
 
-The HR Application uses xampp as its local database, to setup do the following:
+REFERENCE
+The relational database structure came from this website: https://www.w3resource.com/sql-exercises/employee-database-exercise/index.php
+
+Change Database configurations:
+To access the code, go to the path: HR System (folder) > HR System (folder) > EmployeeDatabase.sln
+To change database configuration from the code, go to the path: HR System (folder) > HR System (folder) > EmployeeDatabase (folder) > Form1.cs . You can change the database configuration from line 19 that contains the code 
+'public static string connectDB = "datasource = localhost; username = root; password =''; database = employees database; SslMode = none";' You can use your own MySQL database server or you can use the one from the instructions below.
+If you choose to use your own MySQL database server, you need to also paste the code from step 8 and 9 to insert the tables and rows from the instructions below.
+
+My HR Application uses xampp as its local database, to setup do the following:
 1. To download xampp go to the following link: https://www.apachefriends.org/download.html
 2. Once you are able to open xampp application, click the Start button for the Modules for Apache and MySQL
 3. Click the Admin button for the MySQL Module to access phpMyAdmin website which allows you to configure your local database
@@ -72,15 +81,6 @@ The HR Application uses xampp as its local database, to setup do the following:
     ('2001','AUDIT','MELBOURNE'),
     ('3001','MARKETING','PERTH'),
     ('4001','PRODUCTION','BRISBANE');
-
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-To access the code, go to the path: HR System (folder) > HR System (folder) > EmployeeDatabase.sln
-To change database configuration from the code, go to the path: HR System (folder) > HR System (folder) > EmployeeDatabase (folder) > Form1.cs . You can change the database configuration from line 19 that contains the code 'public static string connectDB = "datasource = localhost; username = root; password =''; database = employees database; SslMode = none";'
-
-REFERENCE
-The relational database structure came from this website: https://www.w3resource.com/sql-exercises/employee-database-exercise/index.php
 
 
 
