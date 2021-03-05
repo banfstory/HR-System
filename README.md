@@ -1,9 +1,4 @@
 # HR-System
-
-REFERENCE
-
-The relational database structure came from this website: https://www.w3resource.com/sql-exercises/employee-database-exercise/index.php
-
 Change Database configurations:
 To access the code, go to the path: HR System (folder) > HR System (folder) > EmployeeDatabase.sln
 To change database configuration from the code, go to the path: HR System (folder) > HR System (folder) > EmployeeDatabase (folder) > Form1.cs . You can change the database configuration from line 19 that contains the code 
@@ -83,3 +78,7 @@ My HR Application uses xampp as its local database, to setup do the following:
     ('3001','MARKETING','PERTH'),
     ('4001','PRODUCTION','BRISBANE');
 
+
+
+REFERENCE
+The relational database structure came from this website: https://www.w3resource.com/sql-exercises/employee-database-exercise/index.php
