@@ -1,7 +1,5 @@
 # HR-System
 
-Instructions
-
 REFERENCE
 The relational database structure came from this website: https://www.w3resource.com/sql-exercises/employee-database-exercise/index.php
 
