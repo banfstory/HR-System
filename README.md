@@ -80,5 +80,4 @@ My HR Application uses xampp as its local database, to setup do the following:
 
 
 
-REFERENCE
-The relational database structure came from this website: https://www.w3resource.com/sql-exercises/employee-database-exercise/index.php
+REFERENCE: The relational database structure came from this website: https://www.w3resource.com/sql-exercises/employee-database-exercise/index.php
