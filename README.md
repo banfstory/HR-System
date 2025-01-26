@@ -1,11 +1,12 @@
 # HR-System
 The HR App is built in C# with the .NET framework (Windows Forms App), the app keeps track of employee, department, management, salary details and its associations with each other.
 
-# REFERENCE
-## SQL Exercises, Practice, Solution - exercises on employee Database (Relational Database Structure)
+## REFERENCE
+### SQL Exercises, Practice, Solution - exercises on employee Database (Relational Database Structure)
 Description: The relational database structure came from w3resource </br>
 Source Link: https://www.w3resource.com/sql-exercises/employee-database-exercise/index.php </br>
 
+## SETUP
 Change Database configurations:
 To access the code, go to the path: HR System (folder) > HR System (folder) > EmployeeDatabase.sln
 To change database configuration from the code, go to the path: HR System (folder) > HR System (folder) > EmployeeDatabase (folder) > Form1.cs . You can change the database configuration from line 19 that contains the code 
