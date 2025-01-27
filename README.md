@@ -3,8 +3,9 @@ The HR App is built in C# with the .NET framework (Windows Forms App), the app k
 
 ## REFERENCE
 ### SQL Exercises, Practice, Solution - exercises on employee Database (Relational Database Structure)
-Description: The relational database structure came from w3resource </br>
-Source Link: https://www.w3resource.com/sql-exercises/employee-database-exercise/index.php </br>
+* Description: The relational database structure came from w3resource
+* Source Link: https://www.w3resource.com/sql-exercises/employee-database-exercise/index.php
+* Author: w3resource
 
 ## SETUP
 Change Database configurations:
